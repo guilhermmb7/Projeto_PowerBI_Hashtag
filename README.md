@@ -22,6 +22,8 @@ Alguns exemplos das formulas e fotos dos Gráficos 📊👇
 
 Aula 2 - Dash Produção:
 
+![image](https://github.com/guilhermmb7/Projeto_PowerBI_Hashtag/assets/108238170/75e3b6bb-ce5c-44a5-ae8c-9d0ec2c07c8a)
+
 ![image](https://github.com/guilhermmb7/Projeto_PowerBI_Hashtag/assets/108238170/77a4130a-e368-4c04-91ab-3df7e0422a8d)
 
 ![image](https://github.com/guilhermmb7/Projeto_PowerBI_Hashtag/assets/108238170/0949a8d9-764d-406a-a7ef-8c25109a022d)
@@ -35,7 +37,6 @@ Aula 3 - Dash de RH:
 
 ![image](https://github.com/guilhermmb7/Projeto_PowerBI_Hashtag/assets/108238170/809ec796-e62b-4e75-b664-9fdb7d2764ba)
 
-![image](https://github.com/guilhermmb7/Projeto_PowerBI_Hashtag/assets/108238170/75e3b6bb-ce5c-44a5-ae8c-9d0ec2c07c8a)
 
 ![image](https://github.com/guilhermmb7/Projeto_PowerBI_Hashtag/assets/108238170/3aa8abf0-cc29-45bc-919d-c1be274ed08b)
 
