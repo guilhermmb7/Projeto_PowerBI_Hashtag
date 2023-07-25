@@ -28,6 +28,10 @@ Aula 2 - Dash Produção:
 
 ![image](https://github.com/guilhermmb7/Projeto_PowerBI_Hashtag/assets/108238170/0949a8d9-764d-406a-a7ef-8c25109a022d)
 
+![image](https://github.com/guilhermmb7/Projeto_PowerBI_Hashtag/assets/108238170/3aa8abf0-cc29-45bc-919d-c1be274ed08b)
+
+![image](https://github.com/guilhermmb7/Projeto_PowerBI_Hashtag/assets/108238170/39a8041e-9616-40c7-817f-b122b3bd35d7)
+
 ![image](https://github.com/guilhermmb7/Projeto_PowerBI_Hashtag/assets/108238170/0f3ac6e3-29eb-4fee-9a70-1ff85ae14e3e)
 
 
