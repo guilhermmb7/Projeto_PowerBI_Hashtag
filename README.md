@@ -20,7 +20,9 @@ Receitas, Despesas, Impostos e Lucro
 
 Alguns exemplos das formulas e fotos dos Gráficos 📊👇 
 
-Aula 2 - Dash Produção:
+
+**Aula 2 - Dash Produção:**
+
 
 ![image](https://github.com/guilhermmb7/Projeto_PowerBI_Hashtag/assets/108238170/75e3b6bb-ce5c-44a5-ae8c-9d0ec2c07c8a)
 
@@ -37,7 +39,8 @@ Aula 2 - Dash Produção:
 
 
 
-Aula 3 - Dash de RH:
+**Aula 3 - Dash de RH:**
+
 
 ![image](https://github.com/guilhermmb7/Projeto_PowerBI_Hashtag/assets/108238170/809ec796-e62b-4e75-b664-9fdb7d2764ba)
 
@@ -48,7 +51,8 @@ Aula 3 - Dash de RH:
 
 
 
-Aula 4 - Dash financeiro:
+**Aula 4 - Dash financeiro:**
+
 
 ![image](https://github.com/guilhermmb7/Projeto_PowerBI_Hashtag/assets/108238170/4e8f86d6-06de-4679-a0e5-9066542b545b) 
 
