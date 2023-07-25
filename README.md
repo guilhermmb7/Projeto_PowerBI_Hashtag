@@ -12,8 +12,10 @@ Atraves de formulas DAX (Data Analysis Expressions) chegamos aos valores apresen
 
 Receitas, Despesas, Impostos e Lucro
 
-alguns exemplos:
-![image](https://github.com/guilhermmb7/Projeto_PowerBI_Hashtag/assets/108238170/4e8f86d6-06de-4679-a0e5-9066542b545b)
+Alguns exemplos das formulas:
+
+![image](https://github.com/guilhermmb7/Projeto_PowerBI_Hashtag/assets/108238170/4e8f86d6-06de-4679-a0e5-9066542b545b) 
+
 
 
 ![image](https://github.com/guilhermmb7/Projeto_PowerBI_Hashtag/assets/108238170/e294b9e8-9114-4c1c-8c9e-cfc83d6cd869)
