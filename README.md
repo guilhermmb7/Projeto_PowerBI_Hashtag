@@ -14,7 +14,7 @@ Aula 3 - O projeto Dash RH apresenta uma avaliação do setor, abordando contrat
 Atraves de formulas DAX (Data Analysis Expressions) chegamos aos valores apresentados nos Gráficos.
 
 Aula 4 - O projeto do Dash Financeiro apresenta um banlanço finaceiro de alguns dos principais bancos Brasil: Santander, Bradesco, Safra, Nubank e Itaú.
-Atraves de formulas DAX (Data Analysis Expressions) chegamos aos valores apresentados nos Gráficos.
+Atraves de formulas DAX (Data Analysis Expressions) chegamos aos valores apresentados nos Gráficos. E ainda, como inserir imagens nos graficos. 
 
 Receitas, Despesas, Impostos e Lucro
 
