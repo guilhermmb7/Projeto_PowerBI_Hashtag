@@ -1,4 +1,4 @@
-# Projeto_PowerBI_Hashtag 
+# Projeto_PowerBI_Hashtag 📉 
 
 Esse projeto foi Feito no treinamento da Hashtag Treinamentos. Mas esse é meu, rsrs.. Mudei algumas cores e dei a minha identidade, pra não sair extamenete uma cópia. 
 Trabalhei duro pra entender e fazer sozinho, então está aí.
@@ -7,16 +7,15 @@ O minicurso durou 4 dias e foram mais de 10 horas de conteudo de muita qualidade
 Apezar de muita qualidade no conteúdo, é um minicurso, e ele não aborda pronfundamente a limpeza e tratamento dos dados, por tanto, me encarreguei de bagunçá-los e colocar em pratica o meu aprendizado desses ultimos meses. ;)
 realizando analise descritiva, preditiva e diagnóstica, aplicando Modelagem ETL.
 
-Aula 2 - O projeto Dash Produção apresententa um balanço de Produção, apurando produção por funcionários, produtos produzidos, horas de produção e horas parada.
-Atraves de formulas DAX (Data Analysis Expressions) chegamos aos valores apresentados nos Gráficos.
+**Aula 2 - O projeto Dash Produção apresententa um balanço de Produção, apurando produção por funcionários, produtos produzidos, horas de produção e horas parada.
+Atraves de formulas DAX (Data Analysis Expressions) chegamos aos valores apresentados nos Gráficos.**
 
-Aula 3 - O projeto Dash RH apresenta uma avaliação do setor, abordando contratações, funcionários ativos, funcionários por gênero, funcionários por cargo e setor, alem de dimensões e Turnover.
-Atraves de formulas DAX (Data Analysis Expressions) chegamos aos valores apresentados nos Gráficos.
+**Aula 3 - O projeto Dash RH apresenta uma avaliação do setor, abordando contratações, funcionários ativos, funcionários por gênero, funcionários por cargo e setor, alem de dimensões e Turnover.
+Atraves de formulas DAX (Data Analysis Expressions) chegamos aos valores apresentados nos Gráficos.**
 
-Aula 4 - O projeto do Dash Financeiro apresenta um banlanço finaceiro de alguns dos principais bancos Brasil: Santander, Bradesco, Safra, Nubank e Itaú.
-Atraves de formulas DAX (Data Analysis Expressions) chegamos aos valores apresentados nos Gráficos. E ainda, como inserir imagens nos graficos. 
-
-Receitas, Despesas, Impostos e Lucro
+**Aula 4 - O projeto do Dash Financeiro apresenta um banlanço finaceiro de alguns dos principais bancos Brasil: Santander, Bradesco, Safra, Nubank e Itaú.
+Atraves de formulas DAX (Data Analysis Expressions) chegamos aos valores apresentados nos Gráficos. E ainda, como inserir imagens nos graficos.
+Receitas, Despesas, Impostos e Lucro.**
 
 Alguns exemplos das formulas e fotos dos Gráficos 📊👇 
 
